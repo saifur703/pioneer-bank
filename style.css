@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.pioneer-bank-area {
+    padding: 50px 0;
+}
+
+.submit-area {
+    box-shadow: 5px 5px 20px grey;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    padding: 50px;
+}
