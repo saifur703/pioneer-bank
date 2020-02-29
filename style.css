@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-.pioneer-bank-area {
+.section-padding {
     padding: 50px 0;
 }
 
@@ -15,4 +15,30 @@
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
     padding: 50px;
+}
+
+.transaction-area {
+    display: none;
+}
+
+.deposit {
+    background-color: slateblue;
+}
+
+.withdraw {
+    background-color: lightsalmon;
+}
+
+.balance {
+    background-color: orange;
+}
+
+.single-box {
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+    color: #fff;
+    padding: 30px;
 }
